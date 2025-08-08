@@ -1,0 +1,112 @@
+{
+  "formid_stats": {
+    "RefillGenie Form (New Users)": {
+      "count": 2932,
+      "average_order_value": 48.67,
+      "purchases_by_value": {
+        "59.99": 596,
+        "29.99": 266,
+        "89.98": 1,
+        "39.98": 48,
+        "69.98": 70,
+        "89.96": 3,
+        "79.97": 1,
+        "39.97": 1,
+        "59.00": 6,
+        "29.00": 2,
+        "68.98": 85,
+        "58.99": 1120,
+        "24.99": 626,
+        "34.98": 91,
+        "29.97": 4,
+        "78.97": 2,
+        "88.96": 1,
+        "9.99": 7,
+        "35.39": 2
+      }
+    },
+    "RefillGenie Checkout (Returning Users)": {
+      "count": 3740,
+      "average_order_value": 43.83,
+      "purchases_by_value": {
+        "29.99": 323,
+        "59.99": 408,
+        "39.98": 21,
+        "69.98": 27,
+        "24.99": 1291,
+        "9.99": 11,
+        "29.00": 4,
+        "59.00": 2,
+        "58.99": 1443,
+        "68.98": 77,
+        "34.98": 49,
+        "34.00": 3,
+        "19.99": 1,
+        "48.99": 5,
+        "29.49": 1,
+        "53.09": 10,
+        "22.49": 19,
+        "47.19": 1,
+        "14.99": 19,
+        "38.99": 6,
+        "4.99": 10,
+        "35.39": 8,
+        "14.98": 1
+      }
+    },
+    "RefillGenie Form - URGENT (New Users)": {
+      "count": 93,
+      "average_order_value": 62.01,
+      "purchases_by_value": {
+        "59.00": 86,
+        "99.00": 7
+      }
+    },
+    "RefillGenie Checkout - URGENT (Returning Users)": {
+      "count": 38,
+      "average_order_value": 63.21,
+      "purchases_by_value": {
+        "59.00": 34,
+        "99.00": 4
+      }
+    },
+    "RG Payment (return)": {
+      "count": 128,
+      "average_order_value": 37.33,
+      "purchases_by_value": {
+        "29.99": 2,
+        "24.99": 66,
+        "58.99": 45,
+        "68.98": 1,
+        "48.99": 1,
+        "14.99": 8,
+        "35.39": 5
+      }
+    },
+    "251384014916051": {
+      "count": 1,
+      "average_order_value": 1.0,
+      "purchases_by_value": {
+        "1.00": 1
+      }
+    },
+    "RG Payment (new)": {
+      "count": 14,
+      "average_order_value": 45.06,
+      "purchases_by_value": {
+        "24.99": 3,
+        "58.99": 9,
+        "14.99": 1,
+        "9.99": 1
+      }
+    }
+  },
+  "total_purchases": 6946,
+  "number_of_refunds": 612,
+  "unique_formids": 7,
+  "average_order_value": 46.1,
+  "unique_customers": 2991,
+  "repeat_customers": 1091,
+  "repeat_customer_percentage": 36.5,
+  "average_purchases_per_customer": 2.32
+}
